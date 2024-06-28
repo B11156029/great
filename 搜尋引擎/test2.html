@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>水豚君 搜尋引擎</title>
+    <link href="test2.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h1>水豚君搜尋引擎</h1>
+        <input type="text" id="searchInput" placeholder="輸入商品名稱">
+        <div id="productList">
+            <!-- 商品列表將顯示在這裡 -->
+        </div>
+    </div>
+
+    <script>
+        fetch('products2.json')
+            .then(response => response.json())
+            .then(data => {
+                const productList = document.getElementById('productList');
+                const searchInput = document.getElementById('searchInput');
+
+                searchInput.addEventListener('input', () => {
+                    const searchKeyword = searchInput.value.trim().toLowerCase();
+                    productList.innerHTML = '';
+
+                    if (searchKeyword === '') return;
+
+                    Object.keys(data).forEach(category => {
+                        data[category].forEach(product => {
+                            if (product.name.toLowerCase().includes(searchKeyword) || category.toLowerCase().includes(searchKeyword)) {
+                                const productItem = document.createElement('div');
+                                productItem.classList.add('product-item');
+
+                                const productName = document.createElement('h3');
+                                productName.textContent = product.name;
+
+                                const productImage = document.createElement('img');
+                                productImage.classList.add('product-image');
+                                productImage.src = product.image;
+                                productImage.alt = product.name;
+
+                                const productPrice = document.createElement('p');
+                                productPrice.textContent = `價格: $${product.price}`;
+
+                                const productDescription = document.createElement('p');
+                                productDescription.textContent = product.description;
+
+                                productItem.appendChild(productName);
+                                productItem.appendChild(productImage);
+                                productItem.appendChild(productPrice);
+                                productItem.appendChild(productDescription);
+
+                                productList.appendChild(productItem);
+                            }
+                        });
+                    });
+                });
+            })
+            .catch(error => console.error('加載數據時出錯：', error));
+    </script>
+</body>
+
+</html>

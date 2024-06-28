@@ -1,0 +1,855 @@
+{
+    "日用品": [{
+            "name": "雷達薄型液體電蚊香補充瓶-含天然尤加利(41mlx2瓶)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/71060026.png",
+            "price": "192元",
+            "description": "單盒特價195元  任二特價任2盒383元"
+        },
+        {
+            "name": "雷達薄型液體電蚊香補充瓶-無臭無味(41mlx2入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/71060024.png",
+            "price": "192元",
+            "description": "單盒特價195元  任二特價任2盒383元"
+        },
+        {
+            "name": "雷達薄型液體電蚊香補充瓶-植物清新味(41mlx2入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/71060025.png",
+            "price": "192元",
+            "description": "單盒特價195元  任二特價任2盒383元"
+        },
+        {
+            "name": "日星沙拉脫(食器專用清潔劑)(800ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/10080799.png",
+            "price": "57元",
+            "description": "特價"
+        },
+        {
+            "name": "白鴿天然濃縮防霉抗菌洗衣精-天然香蜂草(3500g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/10057508.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "白鴿天然濃縮防蹣抗菌洗衣精-天然尤加利(3500gm)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/10054633.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "毛寶全效強淨柔軟洗衣精-梔子花香(3500g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/71140058.png",
+            "price": "98元",
+            "description": "特價"
+        },
+        {
+            "name": "風倍清浴廁用根源防霉防臭劑-清新柑橘(7ml*2入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/61030149.png",
+            "price": "228元",
+            "description": "特價"
+        },
+        {
+            "name": "風倍清浴廁用根源防霉防臭劑-柔和花香(7ml*2入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/61030150.png",
+            "price": "228元",
+            "description": "特價"
+        },
+        {
+            "name": "湖池屋厚切洋芋片-紅胡椒花藻鹽口味(61g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27010554.png",
+            "price": "28元",
+            "description": "特價"
+        },
+        {
+            "name": "湖池屋厚切洋芋片-奶焗洋蔥口味(61g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27010516.png",
+            "price": "28元",
+            "description": "特價"
+        },
+        {
+            "name": "湖池屋厚切洋芋片-特製蒜香口味(61g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27010517.png",
+            "price": "28元",
+            "description": "特價"
+        },
+        {
+            "name": "湖池屋厚切洋芋片-辛口明太子口味(61g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27010576.png",
+            "price": "28元",
+            "description": "特價"
+        },
+        {
+            "name": "湖池屋料都亭平切洋芋片-海苔麴鹽口味(60.5g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27010598.png",
+            "price": "28元",
+            "description": "特價"
+        },
+        {
+            "name": "湖池屋料都亭平切洋芋片-蒜味蝦口味(60.5g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27010599.png",
+            "price": "28元",
+            "description": "特價"
+        },
+        {
+            "name": "旺旺仙貝米果(112g(2枚x20袋))",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20464773.png",
+            "price": "50元",
+            "description": "單包特價53元  任二特價任2包99元"
+        },
+        {
+            "name": "旺旺仙貝-雪月-甜味(米果)(145g(24枚))",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20463171.png",
+            "price": "50元",
+            "description": "單包特價53元  任二特價任2包99元"
+        },
+        {
+            "name": "旺旺雪燒海苔仙貝(170g(2枚x10袋))",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55210059.png",
+            "price": "50元",
+            "description": "單包特價53元  任二特價任2包99元"
+        },
+        {
+            "name": "雪燒-可口椒鹽味(190g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27020018.png",
+            "price": "50元",
+            "description": "單包特價53元  任二特價任2包99元"
+        },
+        {
+            "name": "老興哥爆米花-巧克力(200g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27030014.png",
+            "price": "65元",
+            "description": "單罐129元  買一送一任2罐129元"
+        },
+        {
+            "name": "老興哥爆米花-原味(200g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27030015.png",
+            "price": "65元",
+            "description": "單罐129元  買一送一任2罐129元"
+        },
+        {
+            "name": "多力多滋超濃起司口味玉米片(108g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55020301.png",
+            "price": "34元",
+            "description": "單包36元  任二特價任2包67元"
+        },
+        {
+            "name": "多力多滋黃金起司口味玉米片(108g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55020302.png",
+            "price": "34元",
+            "description": "單包36元  任二特價任2包67元"
+        },
+        {
+            "name": "多力多滋美式辣起士口味玉米片(108g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27030001.png",
+            "price": "34元",
+            "description": "單包36元  任二特價任2包67元"
+        },
+        {
+            "name": "多力多滋玉米片-紐奧良辣醬口味(90g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/27030224.png",
+            "price": "34元",
+            "description": "單包36元  任二特價任2包67元"
+        },
+        {
+            "name": "每朝健康無糖熟藏紅茶(650ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/13060126.png",
+            "price": "26元",
+            "description": "單瓶28元  任四特價任4瓶104元"
+        },
+        {
+            "name": "維他露每朝健康綠茶(650ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/06160195.png",
+            "price": "26元",
+            "description": "單瓶28元  任四特價任4瓶104元"
+        },
+        {
+            "name": "美粒果零加糖蜜桃蘇打(500ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/13020066.png",
+            "price": "22元",
+            "description": "單瓶特價29元  任四特價任4瓶89元"
+        },
+        {
+            "name": "美粒果零加糖蘋果蘇打(500ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/13020064.png",
+            "price": "22元",
+            "description": "單瓶特價29元  任四特價任4瓶89元"
+        },
+        {
+            "name": "美粒果零加糖葡萄蘇打(500ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/13020065.png",
+            "price": "22元",
+            "description": "單瓶特價29元  任四特價任4瓶89元"
+        },
+        {
+            "name": "福樂高鈣低脂牛乳(200mlx6包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20530162.png",
+            "price": "67元",
+            "description": "單組特價70元  任四特價任4組269元"
+        },
+        {
+            "name": "福樂蘋果牛乳(200mlx6包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20520179.png",
+            "price": "67元",
+            "description": "單組特價70元  任四特價任4組269元"
+        },
+        {
+            "name": "福樂香蕉牛乳(200mlx6包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/06020020.png",
+            "price": "67元",
+            "description": "單組特價70元  任四特價任4組269元"
+        },
+        {
+            "name": "五月花蓬厚柔頂級連續抽取式花紋衛生紙(100抽x10包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/76110067.png",
+            "price": "119元",
+            "description": "特價"
+        },
+        {
+            "name": "舒潔抽取衛生紙-棉柔舒適(110抽*12包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/63010062.png",
+            "price": "180元",
+            "description": "單串特價193元  買二特價2串360元"
+        },
+        {
+            "name": "三好米米食堂蓬萊米(4kg)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/26010008.png",
+            "price": "169元",
+            "description": "特價"
+        },
+        {
+            "name": "三好米米食堂台禾更米(4kg)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/26010009.png",
+            "price": "169元",
+            "description": "特價"
+        },
+        {
+            "name": "AirwavesSUPER極酷嗆涼紫冰野梅(36.4g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55130120.png",
+            "price": "40元",
+            "description": "單袋特價45元  任二特價任2袋79元"
+        },
+        {
+            "name": "Airwaves超涼無糖口香糖-超涼薄荷(36.4g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55130077.png",
+            "price": "40元",
+            "description": "單袋特價45元  任二特價任2袋79元"
+        },
+        {
+            "name": "Airwaves無糖口香糖-極酷嗆涼薄荷(36.4g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55130082.png",
+            "price": "40元",
+            "description": "單袋特價45元  任二特價任2袋79元"
+        },
+        {
+            "name": "立頓茗閒情-凍頂烏龍茶(2.8g*36入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15040126.png",
+            "price": "148元",
+            "description": "單袋特價155元  任二特價任2袋296元"
+        },
+        {
+            "name": "立頓茗閒情-高山烏龍茶(2.8g*22入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15040127.png",
+            "price": "148元",
+            "description": "單袋特價155元  任二特價任2袋296元"
+        },
+        {
+            "name": "立頓茗閒情-活綠茶(2.5g*36入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15040125.png",
+            "price": "148元",
+            "description": "單袋特價155元  任二特價任2袋296元"
+        },
+        {
+            "name": "立頓茗閒情-蜜香紅茶(2.8g*18入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15040124.png",
+            "price": "148元",
+            "description": "單袋特價155元  任二特價任2袋296元"
+        },
+        {
+            "name": "佳蘭 家樂氏纖穀脆-鮮摘草莓(300g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15020222.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "佳蘭 家樂氏纖穀脆-榛果可可(300g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15020221.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "家樂氏纖穀脆-超級莓果(330g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15020041.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "家樂氏纖穀脆-豐富堅果(330g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15020040.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "家樂氏纖穀脆-黑巧野莓(300g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15020085.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "家樂氏纖穀脆-嚴選果實(300g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/15020012.png",
+            "price": "188元",
+            "description": "特價"
+        },
+        {
+            "name": "蜜蜂工坊-龍眼花蜜(700g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51030215.png",
+            "price": "309元",
+            "description": "特價"
+        },
+        {
+            "name": "康寶鮮味炒手-素食(240g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/09030216.png",
+            "price": "118元",
+            "description": "任1罐加贈20點 卡友價任1罐118元"
+        },
+        {
+            "name": "康寶鮮味炒手-原味(240g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/09030217.png",
+            "price": "118元",
+            "description": "任1罐加贈20點 卡友價任1罐118元"
+        },
+        {
+            "name": "泰山精選蔬菜油(3L)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20122725.png",
+            "price": "219元",
+            "description": "特價"
+        },
+        {
+            "name": "刷樂專業護理漱口水-草本修護(500ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51010561.png",
+            "price": "88元",
+            "description": "單瓶特價176元  買一送一任2瓶176元"
+        },
+        {
+            "name": "刷樂專業護理漱口水-蜂膠護齦(500 ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51010282.png",
+            "price": "88元",
+            "description": "單瓶特價176元  買一送一任2瓶176元"
+        },
+        {
+            "name": "刷樂專業護理漱口水-抗敏感(500ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51010376.png",
+            "price": "88元",
+            "description": "單瓶特價176元  買一送一任2瓶176元"
+        },
+        {
+            "name": "澎澎香浴乳-抗菌修護型(仙氣牡丹香氛)(850g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51030838.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "澎澎香浴乳-亮澤滋潤型(850g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/66020044.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "澎澎香浴乳-水嫩清爽型(850g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/66020043.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "澎澎香浴乳-漾采緊緻型(經典白麝香)(850g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/66020434.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "麗仕持久香氛皂-媚惑幽香(80g*6入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51030807.png",
+            "price": "112元",
+            "description": "任1組加贈20點 卡友價任1組112元"
+        },
+        {
+            "name": "麗仕煥活香氛皂-煥活冰爽(80g*6入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51030806.png",
+            "price": "112元",
+            "description": "任1組加贈20點 卡友價任1組112元"
+        },
+        {
+            "name": "麗仕柔嫩香氛皂-水嫩柔膚(80g*6入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51030805.png",
+            "price": "112元",
+            "description": "任1組加贈20點 卡友價任1組112元"
+        },
+        {
+            "name": "DARLIE好來清新防護淨白牙膏2+1超值組(清新防護160g*2+沁涼淨白140g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/51010661.png",
+            "price": "198元",
+            "description": "特價"
+        },
+        {
+            "name": "味丹享味食光-雞汁風味湯麵(70gx5)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/36010167.png",
+            "price": "36元",
+            "description": "單組特價48元  第二件五折任2組72元"
+        },
+        {
+            "name": "味丹享味食光-烤蝦風味湯麵(70gx5)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/36010168.png",
+            "price": "36元",
+            "description": "單組特價48元  第二件五折任2組72元"
+        },
+        {
+            "name": "鄉嫩雞塊-黑胡椒(700g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21610061.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "鄉嫩雞塊-原味(700g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21610060.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "小美黑糖珍奶雪糕(80g*4入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/35010004.png",
+            "price": "88元",
+            "description": "特價"
+        },
+        {
+            "name": "小美珍珠抹茶雪糕(75g*4入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/35010169.png",
+            "price": "88元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌海苔杏仁小魚(115g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55050233.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌-核桃小魚(125g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/29030011.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌蜜汁腰果(350g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55050380.png",
+            "price": "259元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌香酥腰果(350g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/29030142.png",
+            "price": "259元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌杏仁小魚(115g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55050217.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌杏仁小魚(270g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55050256.png",
+            "price": "259元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌珍味雙果(350g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55050132.png",
+            "price": "259元",
+            "description": "特價"
+        },
+        {
+            "name": "viva萬歲牌綜合纖果(400g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55050075.png",
+            "price": "259元",
+            "description": "特價"
+        },
+        {
+            "name": "萬歲牌楓糖腰果(140g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55430218.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "萬歲牌蜜汁腰果(140g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55430217.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "萬歲牌香酥腰果(140g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/55430219.png",
+            "price": "105元",
+            "description": "特價"
+        },
+        {
+            "name": "元本山朝鮮海苔(麻油)(36.9g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/29040072.png",
+            "price": "88元",
+            "description": "特價"
+        },
+        {
+            "name": "元本山朝鮮海苔湖鹽風味(36.9g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/29040075.png",
+            "price": "88元",
+            "description": "特價"
+        },
+        {
+            "name": "元本山無調味對切海苔(26.4g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/29040073.png",
+            "price": "88元",
+            "description": "特價"
+        },
+        {
+            "name": "康乃馨寶寶潔膚濕巾補充包(超厚)(80片x3入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/90770020.png",
+            "price": "104元",
+            "description": "單組207元  買一送一2組207元"
+        },
+        {
+            "name": "滿意寶寶活潑寶寶巧薄紙尿褲-L(44+2片)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/77110274.png",
+            "price": "265元",
+            "description": "單包特價269元  任二特價任2包530元"
+        },
+        {
+            "name": "滿意寶寶活潑寶寶巧薄紙尿褲-XL(38+2片)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/77110273.png",
+            "price": "265元",
+            "description": "單包特價269元  任二特價任2包530元"
+        },
+        {
+            "name": "宗家府正統韓國泡菜(黑蓋版)(380g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21040188.png",
+            "price": "161元",
+            "description": "單瓶215元  第二件五折2瓶322元"
+        },
+        {
+            "name": "蘇菲超熟睡超薄衛生棉-乾爽瞬吸層28cm(14片*3包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010169.png",
+            "price": "138元",
+            "description": "特價"
+        },
+        {
+            "name": "蘇菲超熟睡超薄衛生棉-乾爽瞬吸層35cm(8片*3包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010171.png",
+            "price": "138元",
+            "description": "特價"
+        },
+        {
+            "name": "蘇菲超熟睡超薄衛生棉-細緻棉柔28cm(14片*3包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010168.png",
+            "price": "138元",
+            "description": "特價"
+        },
+        {
+            "name": "蘇菲超熟睡超薄衛生棉-細緻棉柔35cm(8片*3包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010170.png",
+            "price": "138元",
+            "description": "特價"
+        },
+        {
+            "name": "蘇菲彈力貼身超薄日用基本衛生棉(23cm14片*4包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010253.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "蘇菲彈力貼身超薄日用潔翼衛生棉(23cm12片*4包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010252.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "蘇菲彈力貼身超薄夜用潔翼衛生棉(28cm10片*4包)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010254.png",
+            "price": "148元",
+            "description": "特價"
+        },
+        {
+            "name": "好自在乾爽瞬潔絲薄護翼日用24cm(16片*3包+8片)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010126.png",
+            "price": "148元",
+            "description": "單組特價157元  任二特價任2組295元"
+        },
+        {
+            "name": "好自在乾爽瞬潔絲薄護翼夜用(28cm16片*2包+12片)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/53010116.png",
+            "price": "148元",
+            "description": "單組特價157元  任二特價任2組295元"
+        },
+        {
+            "name": "福樂高鈣低脂牛乳　　(1892ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20522594.png",
+            "price": "109元",
+            "description": "特價"
+        },
+        {
+            "name": "福樂全脂高鈣牛乳(1892ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20531270.png",
+            "price": "109元",
+            "description": "特價"
+        },
+        {
+            "name": "得意的一天嚴選純肉鬆(200g)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/20109268.png",
+            "price": "198元",
+            "description": "特價"
+        },
+        {
+            "name": "桂格養氣人蔘(無添加糖配方)(60ml*19瓶)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/17010010.png",
+            "price": "987元",
+            "description": "特價"
+        },
+        {
+            "name": "桂格喝的燕麥－原味(920ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21330102.png",
+            "price": "54元",
+            "description": "特價"
+        },
+        {
+            "name": "桂格顆粒豆漿燕麥(920ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21030118.png",
+            "price": "54元",
+            "description": "特價"
+        },
+        {
+            "name": "桂格顆粒燕麥飲(920ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21330118.png",
+            "price": "54元",
+            "description": "特價"
+        },
+        {
+            "name": "桂格燕麥堅果王(920ml)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/21330207.png",
+            "price": "54元",
+            "description": "特價"
+        },
+        {
+            "name": "海尼根啤酒(罐裝)(330ml*8入)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/19010169.png",
+            "price": "257元",
+            "description": "特價"
+        },
+        {
+            "name": "豐力富全家人高鈣營養奶粉(2.2kg)",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/11020238.png",
+            "price": "548元",
+            "description": "特價"
+        },
+        {
+            "name": "金目鱸魚約３５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/213571.png",
+            "price": "95元",
+            "description": "特價"
+        },
+        {
+            "name": "龍虎斑輪切約１８０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/214136.png",
+            "price": "149元",
+            "description": "特價"
+        },
+        {
+            "name": "鮮凍大白蝦（３０／４０）約２５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/215078.png",
+            "price": "168元",
+            "description": "特價"
+        },
+        {
+            "name": "活凍大白蝦約２５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/215089.png",
+            "price": "159元",
+            "description": "特價"
+        },
+        {
+            "name": "熟凍鮮白蝦２５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/221314.png",
+            "price": "169元",
+            "description": "特價"
+        },
+        {
+            "name": "鴨肉貢丸約２００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/226031.png",
+            "price": "49元",
+            "description": "特價"
+        },
+        {
+            "name": "時尚挪威鹽鯖魚約３６０～４００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/730081.png",
+            "price": "89元",
+            "description": "特價"
+        },
+        {
+            "name": "美國冷藏牛腱約３５０～５５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/324182.png",
+            "price": "49元",
+            "description": "店促"
+        },
+        {
+            "name": "澳洲牛肩里肌火鍋肉片約２００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/321875.png",
+            "price": "74元",
+            "description": "店促"
+        },
+        {
+            "name": "豬五花肉片（蒜泥白肉）約１８０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310081.png",
+            "price": "43元",
+            "description": "店促"
+        },
+        {
+            "name": "台灣雪花豬頸肉切片約１２０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310347.png",
+            "price": "149元",
+            "description": "特價"
+        },
+        {
+            "name": "熟成桂丁帶皮雞胸肉約２８０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310720.png",
+            "price": "99元",
+            "description": "店促_單盒特價109元，2盒199元"
+        },
+        {
+            "name": "雲林土雞骨腿切塊約４００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310084.png",
+            "price": "145元",
+            "description": "特價"
+        },
+        {
+            "name": "雞里肌肉約２５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310711.png",
+            "price": "74元",
+            "description": "特價"
+        },
+        {
+            "name": "國產去骨雞腿排約３６０ｇ／２片",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310777.png",
+            "price": "129元",
+            "description": "特價_炸豬排任2盒259元"
+        },
+        {
+            "name": "十三香翅小腿約２６５ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310677.png",
+            "price": "79元",
+            "description": "特價"
+        },
+        {
+            "name": "十三香雞翅約２５０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310688.png",
+            "price": "79元",
+            "description": "特價"
+        },
+        {
+            "name": "好欣豬熟成日式炸豬排２入／３００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310228.png",
+            "price": "129元",
+            "description": "特價_炸豬排、雞腿排任2盒259元"
+        },
+        {
+            "name": "熟成日式菲力炸豬排約３２０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/310238.png",
+            "price": "129元",
+            "description": "店促_炸豬排、雞腿排任2盒259元"
+        },
+        {
+            "name": "霧峰香米飯１７０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750372.png",
+            "price": "29元",
+            "description": "特價"
+        },
+        {
+            "name": "帶骨豬腳切塊４２０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/620741.png",
+            "price": "109元",
+            "description": "特價"
+        },
+        {
+            "name": "浩克爸爸照燒雞腿排３８０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750430.png",
+            "price": "129元",
+            "description": "特價"
+        },
+        {
+            "name": "蒜蒜雞湯１０００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750249.png",
+            "price": "179元",
+            "description": "特價"
+        },
+        {
+            "name": "鮮筍排骨湯８００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750410.png",
+            "price": "169元",
+            "description": "特價"
+        },
+        {
+            "name": "老重慶麻辣雙寶８００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750347.png",
+            "price": "109元",
+            "description": "特價"
+        },
+        {
+            "name": "輕食沙拉胸１００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/620235.png",
+            "price": "55元",
+            "description": "特價"
+        },
+        {
+            "name": "滷香鳳爪約２２０ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/620784.png",
+            "price": "49元",
+            "description": "特價"
+        },
+        {
+            "name": "秘製鴨翅１００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/620938.png",
+            "price": "49元",
+            "description": "特價"
+        },
+        {
+            "name": "香滷雞胗９５ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/621565.png",
+            "price": "45元",
+            "description": "特價"
+        },
+        {
+            "name": "秘滷牛腱心３７５ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750274.png",
+            "price": "245元",
+            "description": "特價"
+        },
+        {
+            "name": "捏捏蛋沙拉１２５ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750266.png",
+            "price": "49元",
+            "description": "特價"
+        },
+        {
+            "name": "經典麻醬涼麵３３８ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750439.png",
+            "price": "55元",
+            "description": "特價"
+        },
+        {
+            "name": "早安夯烤地瓜４００ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750305.png",
+            "price": "79元",
+            "description": "特價"
+        },
+        {
+            "name": "雞肉玉米茶碗蒸１９５ｇ",
+            "image": "https://www.pxmart.com.tw/Api/Images/Goods/750408.png",
+            "price": "29元",
+            "description": "特價_單買不特價買6特179元"
+        }
+    ]
+}

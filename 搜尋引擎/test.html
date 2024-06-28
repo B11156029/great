@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>水豚君 搜尋引擎</title>
+</head>
+<style>
+    h1 {
+        text-align: center;
+    }
+    /* 重新設置input的默認樣式 */
+    
+    input[type="text"] {
+        margin-top: 15px;
+        margin-left: 140px;
+        padding: 10px;
+        /* 內邊距 */
+        border: 2px solid #ccc;
+        /* 邊框 */
+        border-radius: 50px;
+        /* 邊框半徑 */
+        outline: none;
+        /* 移除默認的外框線 */
+        font-size: 16px;
+        /* 字體大小 */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        /* 添加陰影 */
+    }
+    /* 悬停效果 */
+    
+    input[type="text"]:hover {
+        border-color: #333;
+        /* 悬停時邊框顏色 */
+    }
+    /* 聚焦效果 */
+    
+    input[type="text"]:focus {
+        border-color: rgb(0, 0, 0);
+        /* 聚焦時邊框顏色 */
+    }
+    
+    #productList {
+        display: flex;
+        flex-wrap: wrap;
+        /* 允许换行 */
+        justify-content: space-between;
+        /* 每个项目之间的间隔相等 */
+    }
+    
+    .product-image {
+        width: 200px;
+        /* 設置圖片寬度 */
+        height: auto;
+        /* 自動計算高度，保持圖片比例 */
+    }
+</style>
+
+<body>
+    <h1>水豚君搜尋引擎</h1>
+    <input type="text" id="searchInput" placeholder="輸入商品名稱">
+
+    <div id="productList">
+        <!-- 商品列表将显示在这里 -->
+    </div>
+
+
+
+    <script>
+        fetch('products.json')
+            .then(response => response.json())
+            .then(data => {
+                const productList = document.getElementById('productList');
+                const searchInput = document.getElementById('searchInput');
+
+                // 根据关键字过滤商品数据
+                searchInput.addEventListener('input', () => {
+                    const searchKeyword = searchInput.value.trim().toLowerCase();
+                    productList.innerHTML = ''; // 清空列表
+
+                    if (searchKeyword === '') return; // 如果搜索关键字为空，则不执行筛选操作
+
+                    // 獲取相應類別的產品
+                    const products = data.filter(product => product.name.toLowerCase().includes(searchKeyword));
+
+                    products.forEach(product => {
+                        const productItem = document.createElement('div');
+                        productItem.classList.add('product-item');
+
+                        const productName = document.createElement('h3');
+                        productName.textContent = product.name;
+
+                        // 创建图片链接
+                        const productLink = document.createElement('a');
+                        productLink.href = product.link; // 设置链接地址
+
+                        const productImage = document.createElement('img');
+                        productImage.classList.add('product-image');
+                        productImage.src = product.image;
+                        productImage.alt = product.name;
+
+                        productLink.appendChild(productImage);
+
+                        const productPrice = document.createElement('p');
+                        productPrice.textContent = `價格: $${product.price}`;
+                        productItem.appendChild(productName);
+                        productItem.appendChild(productLink);
+                        productItem.appendChild(productPrice);
+
+                        productList.appendChild(productItem);
+                    });
+                });
+            })
+            .catch(error => console.error('加载数据时出错：', error));
+    </script>
+
+    </script>
+
+
+</body>
+
+</html>
